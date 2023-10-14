@@ -1,0 +1,34 @@
+body{
+    background: linear-gradient(rgb(207, 238, 135) 0%, rgb(233, 151, 229) 40%, rgb(255, 255, 255) 100%);
+
+}
+
+.Name_of_objects{
+    font-size: 25px;
+    color: white;
+    font-family: 'Caveat', cursive;
+}
+
+.heading{
+    font-size: 30px;
+    color: rgb(207, 238, 135);
+    font-family: 'Dancing Script', cursive;
+}
+
+#Identify_Image{
+    background-color: rgb(207, 238, 135);
+    border-color: rgb(207, 238, 135);
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#Capture_Image{
+    background-color: rgb(207, 238, 135);
+    border-color: rgb(207, 238, 135);
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+}
